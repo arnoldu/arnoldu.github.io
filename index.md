@@ -9,4 +9,4 @@ This will be the description of my famous character. He will be strong and blue.
 * Is overweight (800lbs)
 * Is kinda slow
 
-_Nothings gonna stop us now_
+> Nothings gonna stop us now
