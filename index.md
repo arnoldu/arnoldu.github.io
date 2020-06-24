@@ -4,3 +4,4 @@ This will be the description of my famous character. He will be strong and blue.
 
 _Nothings gonna stop us now_
 
+<img src="https://photos.gograph.com/thumbs/CSP/CSP992/a-smiling-frog-clip-art-vector_k12842717.jpg"/>
